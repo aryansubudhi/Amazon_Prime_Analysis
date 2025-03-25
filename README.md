@@ -1,4 +1,6 @@
 # Amazon_Prime_Analysis
+
+# Project Overview-:
 “Exploring Amazon Prime Content: Trends, Insights, and Opportunities – A Deep Dive into the Dataset 📊🎬”
 
 I recently analyzed a dataset of Amazon Prime titles, which contains 9,668 entries and provides fascinating insights into the type of content available on the platform. Here’s a detailed summary of the dataset, key observations, and potential opportunities for deeper analysis:
